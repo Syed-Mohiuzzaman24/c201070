@@ -1,0 +1,191 @@
+.bgd {
+    background-image: linear-gradient(#FD297A, #9424F0 );
+
+}
+.navd {
+    background-color: #fb2d7c;
+}
+.btn {
+    background-color: #ffffff;
+}
+.f {
+    font-family:cursive;
+}
+.f1 {
+    font-family: cursive;
+    
+}
+.btn {
+    padding: 5px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+.img{
+   
+    background-image:  url("b2.png");
+    background-size:360px;
+    width: 350px;
+    height: 450px;
+    background-blend-mode: lighten;
+     
+}
+.floatright{
+    float: right;
+}
+.hi{
+    font-family: cursive;
+}
+.hi{
+    padding-top: 150px;
+}
+.hii{
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+}
+.mar{
+    margin-top: 100px;
+}
+.form-control{
+    background-image: none;
+}
+.form{
+    background-image: linear-gradient(#FD297A, #9424F0);
+}
+.btn-primary{
+    background-color:#f95d99;
+}
+.text{
+    background-color: #ffffff95;
+    padding-left: 140px ;
+    padding-right: 140px;
+
+    
+    
+}
+.text1{
+  background-color: #ffffff95;
+  padding-left: 180px ;
+  padding-right: 180px;
+
+  
+  
+}
+.text2{
+  background-color: #ffffff95;
+  padding-left: 180px ;
+  padding-right: 180px;
+
+  
+  
+}
+
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .f2{
+    padding: 20px;
+    font-size:50px ;
+    text-align: center;
+    font-family: cursive;
+    color:#fb2d7c;
+
+  }
+  .f3{
+    padding: 20px;
+    font-size:50px ;
+    text-align: center;
+    font-family: cursive;
+    color:#fb2d7c;
+
+  }
+  .f4{
+    padding: 20px;
+    font-size:50px ;
+    text-align: center;
+    font-family: cursive;
+    color:#fb2d7c;
+
+  }
+  
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+
+  
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  } 
+  .fa-instagram{
+    background: #ff3300;
+    color: white;
+
+  }
+  .icon{
+    margin: auto;
+    display: block;
+    width: 150px;
+  }
+  .frnd{
+    font-size: 20px;
+    
+  }
+  .c{
+    margin: auto;
+    text-align: center;
+   }
+
+   .c1{
+    background-image: linear-gradient(#FD297A, #9424F0);
+  
+
+   }
+   .c2{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+   }
+   .c3{
+  
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+
+   }
+   .c4{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 180px;
+  margin: auto;
+
+   }
+
+   .ff{
+    font-size: 40px;
+    color:white;
+   }
+   .ff1{
+    text-align: center;
+   }
+   .rr{
+    font-family: cursive;
+   }
